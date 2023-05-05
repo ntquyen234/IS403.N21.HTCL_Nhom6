@@ -1,5 +1,8 @@
 # Data Analysis in Business final project by Team 6
 
+# Lecturer
+Assoc. Prof. Dr. Nguyen Dinh Thuan
+
 ## Members
 
 Quach Minh Dang - 16520172
