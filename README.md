@@ -1,6 +1,6 @@
 # Data Analysis in Business final project by Team 6
 
-# Lecturer
+## Lecturer
 Assoc. Prof. Dr. Nguyen Dinh Thuan
 
 ## Members
