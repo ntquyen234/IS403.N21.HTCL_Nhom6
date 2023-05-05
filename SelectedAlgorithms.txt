@@ -1,5 +1,0 @@
-1. Exponential Smoothing (ETS) 
-2. Gradient Boosted Trees (GBT) 
-3. K-nearest Neighbors (KNN)
-4. Time Series Anomaly Detection 
-5. Extreme Gradient Boosting (XG Boost)
