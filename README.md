@@ -1,5 +1,7 @@
 # Data Analysis in Business final project by Team 6
 
+## Topic: Crypto-currency prices forecasting using multiple Statistics, Machine Learning, Prophet algorithms.
+
 ## Lecturer
 Assoc. Prof. Dr. Nguyen Dinh Thuan
 
