@@ -1,0 +1,1 @@
+N_NEIGHBORS = 3
